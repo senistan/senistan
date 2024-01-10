@@ -2,7 +2,7 @@
 - 👀 I’m interested in mechatronics engineering.
 - 🌱 I’m currently learning Mechanical and mechatronics engineering at Faculty of Engineering, University of Sri Jayawadenepura, Sri Lanka.
 - 💞️ I’m looking to collaborate on industrial autommation.
-- 📫 How to reach me : FB - ZaynStan, LinkedIn - Senistan Jesurasa, Twitter - SenistanJ
+- 📫 How to reach me : FB - LinkedIn - Senistan Jesurasa, Twitter - SenistanJ
 
 
 <!---
